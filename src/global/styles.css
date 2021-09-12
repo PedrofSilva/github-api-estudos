@@ -1,0 +1,25 @@
+.Dropdown-control{
+    border: none;
+
+}
+
+.dropdown-geral {
+    width: 200px;
+    margin-left: auto;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 12px;
+
+}
+/*
+.select-darktheme{
+    background-color: #262626;
+    color: #D9D9D9;
+    border: none;
+}
+
+.select-darktheme:hover{
+    background-color: #262626;
+    color: #D9D9D9;
+    border: none;
+}*/

@@ -18,7 +18,7 @@ We will create an application using the github public api.
 
 Print of the finished project.
 
-![plot](./image/snapshot-1.png)
+![plot](./image/snapshot.png)
 
 ### Libraries used
 
